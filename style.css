@@ -1,13 +1,14 @@
 .TopColors {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
     display: flex;
-    flex-direction: row;
     align-items: center;
-    padding: 0px;
-
-    position: absolute;
-    width: 115px;
-    height: 24px;
-    left: 156px;
-    top: 24px;
-
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
