@@ -40,6 +40,7 @@ body {
     order: 1;
     flex-grow: 0;
     color: #f4f4fd;
+    color: #2e2f42;
 }
 
 .link {
@@ -47,7 +48,7 @@ body {
 }
 
 .list {
-        list-style: none;
+    list-style: none;
 }
 
 .footer-list-syle {
