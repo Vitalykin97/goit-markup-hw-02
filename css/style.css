@@ -39,8 +39,9 @@ body {
     flex: none;
     order: 1;
     flex-grow: 0;
-    color: #f4f4fd;
     color: #4d5ae5;
+    order: 0;
+    line-height: 1.17;
 }
 
 .link {
