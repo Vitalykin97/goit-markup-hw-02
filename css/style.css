@@ -5,7 +5,7 @@ body {
 }
 
 :root {
-    background-color: #ffffff;
+    --background-color: #ffffff;
 }
 
 .style-logos {
