@@ -35,14 +35,14 @@ body {
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42;
     flex: none;
     order: 1;
     flex-grow: 0;
     color: #4d5ae5;
     order: 0;
     line-height: 1.17;
-    color: #f4f4fd
+    color: #f4f4fd;
+    color: #2e2f42;
 }
 
 .link {
