@@ -40,3 +40,7 @@ body {
     order: 1;
     flex-grow: 0;
 }
+
+.link {
+    text-decoration: none;
+}
