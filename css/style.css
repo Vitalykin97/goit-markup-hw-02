@@ -39,6 +39,7 @@ body {
     flex: none;
     order: 1;
     flex-grow: 0;
+    color: #f4f4fd;
 }
 
 .link {
