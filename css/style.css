@@ -22,7 +22,8 @@ body {
     flex: none;
     order: 0;
     flex-grow: 0;
-    line-height: 1.17
+    line-height: 1.17;
+    text-decoration: none
 }
 
 .style-logos-logo {
