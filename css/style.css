@@ -25,6 +25,10 @@ body {
     line-height: 1.17;
 }
 
+span {
+    color: #f4f4fd;
+}
+
 .style-logos-logo {
     font-family: 'Raleway';
     font-style: normal;
