@@ -1,11 +1,10 @@
+:root {
+    background-color: #ffffff;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
-
-}
-
-:root {
-    --background-color: #ffffff;
 }
 
 .style-logos {
