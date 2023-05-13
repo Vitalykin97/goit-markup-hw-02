@@ -49,7 +49,7 @@ body {
     color: #f4f4fd;
 }
 
-.logo-linked {
+.logo-linked link {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
