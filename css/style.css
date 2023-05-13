@@ -28,21 +28,19 @@ body {
 .style-logos-logo {
     font-family: 'Raleway';
     font-style: normal;
-    font-weight: 800;
+    font-weight: 500;
     font-size: 18px;
     line-height: 21px;
     display: flex;
     align-items: center;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
     text-transform: uppercase;
     flex: none;
     order: 1;
     flex-grow: 0;
     color: #4d5ae5;
     order: 0;
-    line-height: 1.17;
-    color: #f4f4fd;
-    color: #2e2f42;
+    line-height: 1.5;
 }
 
 .link {
