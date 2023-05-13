@@ -47,4 +47,16 @@ body {
 
 .logo-color-list {
     color: #f4f4fd;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
