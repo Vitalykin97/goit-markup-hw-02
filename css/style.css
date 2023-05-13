@@ -57,5 +57,8 @@ body {
 }
 
 .style-logo-logos {
+    font-family: 'Raleway';
+    font-style: normal;
+    line-height: 1.17;
     color: #f4f4fd;
 }
