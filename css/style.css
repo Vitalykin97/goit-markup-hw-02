@@ -36,7 +36,11 @@
     order: 2;
     flex-grow: 0;
     text-decoration: none;
-    header;
+}
+
+.conacts-style:hover,
+.conacts-style:focus {
+    color: var(--second-main-color);
 }
 
 .style-logos-logo {
