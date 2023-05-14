@@ -24,17 +24,17 @@
     flex-grow: 0;
 }
 
-.conacts-style {
+.conacts-style-link link {
     font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: x;
-letter-spacing: 0.02em;
-color: #2E2F42;
-flex: none;
-order: 0;
-flex-grow: 0;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: x;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
 .style-logos-logo {
