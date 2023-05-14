@@ -38,9 +38,12 @@
     text-decoration: none;
 }
 
-.conacts-style:hover,
+.conacts-style:hover {
+    color: #404bbf;
+}
+
 .conacts-style:focus {
-    color: var(--second-main-color);
+    color: #404bbf;
 }
 
 .style-logos-logo {
