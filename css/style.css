@@ -38,11 +38,11 @@
     text-decoration: none;
 }
 
-.conacts-style:hover {
+.conacts-style-link:hover {
     color: #404bbf;
 }
 
-.conacts-style:focus {
+.conacts-style-link:focus {
     color: #404bbf;
 }
 
