@@ -101,3 +101,8 @@
     order: 1;
     flex-grow: 0;
 }
+
+.link-list {
+    font-style: normal;
+    color: #434455;
+}
