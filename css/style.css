@@ -133,11 +133,11 @@
 }
 
 .contacts-style-link a.link:hover {
-    color: #2e2f42;
+    color: #404bbf;
 }
 
 .contacts-style-link a.link:focus {
-    color: #2e2f42;
+    color: #404bbf;
 }
 
 :root {
