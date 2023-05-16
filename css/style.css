@@ -46,6 +46,27 @@
     color: #404bbf;
 }
 
+.conacts-style-link link {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    text-decoration: none;
+}
+
+.conacts-style-link link:hover {
+    color: #404bbf;
+}
+
+.conacts-style-link link:focus {
+    color: #404bbf;
+}
 .style-logos-logo {
     color: #2E2F42;
 }
