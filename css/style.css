@@ -112,6 +112,11 @@
     --color-primary: #434455;
 }
 
+.link {
+    text-decoration: none;
+}
+
+
 
 
 /* TEXT TOP */
