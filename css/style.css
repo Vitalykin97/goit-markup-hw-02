@@ -96,7 +96,8 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
+    
 }
 
 .contacts-style-link:hover {
@@ -111,9 +112,6 @@
     --color-primary: #404bbf;
 }
 
-.contacts-style-link link {
-    color: #434455;
-}
 
 /* TEXT TOP */
 
