@@ -117,6 +117,15 @@
     color: var(--color-primary);
 }
 
+.contacts-style-link a.link:hover,
+.contacts-style-link a.link:focus {
+    color: #404bbf;
+}
+
+:root {
+    --color-primary: #434455;
+}
+
 :root {
     --color-primary: #434455;
 }
