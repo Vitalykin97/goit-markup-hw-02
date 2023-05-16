@@ -112,6 +112,10 @@
     --color-primary: #434455;
 }
 
+.contacts-style-link link {
+    color: #2e2f42;
+}
+
 
 /* TEXT TOP */
 
