@@ -123,43 +123,26 @@
     color: #434455;
 }
 
-.main-logo .logo-link {
-    font-family: "Raleway", sans-serif;
+.contacts-style-link a.link {
+    font-family: 'Roboto';
     font-style: normal;
-    font-weight: 800;
+    font-weight: 400;
     font-size: 16px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    color: #4d5ae5;
-    text-decoration: none;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: var(--color-primary);
 }
 
-.main-logo .logo-link:hover {
-    color: #434455;
+.contacts-style-link a.link:hover {
+    color: #404bbf;
 }
 
-.main-logo .logo-link:focus {
-    color: #434455;
+.contacts-style-link a.link:focus {
+    color: #404bbf;
 }
 
-.main-logo .list .contacts-style-link .link {
-    font-family: "Raleway", sans-serif;
-    font-style: normal;
-    font-weight: 800;
-    font-size: 16px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    color: #4d5ae5;
-    text-decoration: none;
-}
-
-.main-logo .list .contacts-style-link .link:hover {
-    color: #434455;
-}
-
-.main-logo .list .contacts-style-link .link:focus {
-    color: #434455;
-}
+:root {
+    --color-primary: #434455;
 }
 
 .background {
