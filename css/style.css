@@ -117,6 +117,9 @@
     color: var(#434455);
 }
 
+:root {
+    --color-primary: #434455;
+}
 
 .background {
     position: absolute;
