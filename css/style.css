@@ -107,7 +107,7 @@
     color: #434455;
 }
 
-.contacts-style-link a {
+.contacts-style-link a.link {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
