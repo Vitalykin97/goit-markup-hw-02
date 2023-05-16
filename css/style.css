@@ -132,11 +132,11 @@
     color: var(--color-primary);
 }
 
-.contacts-style-link a.link:hover {
+.contacts-style-link link:hover {
     color: #ff6c00
 }
 
-.contacts-style-link a.link:focus {
+.contacts-style-link link:focus {
     color: #ff6c00
 }
 
