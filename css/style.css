@@ -24,8 +24,8 @@
     flex-grow: 0;
 }
 
-.conacts-style-link {
-    font-family: 'Roboto';
+.contacts-style-link {
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -38,16 +38,17 @@
     text-decoration: none;
 }
 
-.conacts-style-link:hover {
+.contacts-style-link:hover {
     color: #404bbf;
 }
 
-.conacts-style-link:focus {
+.contacts-style-link:focus {
     color: #404bbf;
 }
 
-.conacts-style-link link {
-    font-family: 'Roboto';
+.contacts-style-link,
+.contacts-style-link a {
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -60,13 +61,14 @@
     text-decoration: none;
 }
 
-.conacts-style-link link:hover {
+.contacts-style-link a:hover {
     color: #404bbf;
 }
 
-.conacts-style-link link:focus {
+.contacts-style-link a:focus {
     color: #404bbf;
 }
+
 .style-logos-logo {
     color: #2E2F42;
 }
