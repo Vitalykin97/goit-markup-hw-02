@@ -121,6 +121,19 @@
     --color-primary: #404bbf;
 }
 
+/* HERO */
+
+.text-style {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    background-color: #2e2f42;
+}
 
 
 
@@ -135,16 +148,6 @@
     background: #2E2F42;
 }
 
-.text-style {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 56px;
-    line-height: 60px;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #FFFFFF;
-}
 
 /* BUTTON */
 
