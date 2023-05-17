@@ -248,6 +248,36 @@
     color: #2e2f42;
 }
 
+.team-item{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+text-align: center;
+letter-spacing: 0.02em;
+color: #2e2f42;
+flex: none;
+order: 0;
+flex-grow: 0;
+background-color: #FFFFFF;
+}
+
+.team-post{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+text-align: center;
+letter-spacing: 0.02em;
+color: #434455;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+
 /* FUTER PORFOLIO */
 
 .style-logos-item {
