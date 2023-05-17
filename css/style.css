@@ -111,11 +111,12 @@
     color: #404bbf;
 }
 
-.contacts-style-list link:hover {
+.contacts-style-list-item:hover {
     color: #404bbf;
 }
 
-.contacts-style-list link:focus {
+
+.contacts-style-list-item:focus {
     color: #404bbf;
 }
 
