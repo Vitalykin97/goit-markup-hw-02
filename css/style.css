@@ -89,7 +89,7 @@
 }
 
 /* CONTACTS */
-.contacts-style-list-item link {
+.contacts-style-list-item {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 500;
@@ -101,12 +101,12 @@
 }
 
 
-.contacts-style-list-item link:hover {
+.contacts-style-list-item:hover {
     color: #404bbf;
 }
 
 
-.contacts-style-list-item link:focus {
+.contacts-style-list-item:focus {
     color: #404bbf;
 }
 
