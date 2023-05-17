@@ -89,7 +89,7 @@
 }
 
 /* CONTACTS */
-.contacts-style-list {
+.contacts-style-list-nav {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 500;
@@ -100,8 +100,8 @@
 }
 
 
-.contacts-style-list:hover,
-.contacts-style-list:focus {
+.contacts-style-list-nav:hover,
+.contacts-style-list-nav:focus {
     color: var(--color-primary);
 }
 
