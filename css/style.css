@@ -22,10 +22,6 @@
 }
 
 
-.style-logos-logo {
-    color: #2E2F42;
-}
-
 .link {
     text-decoration: none;
 }
@@ -39,10 +35,6 @@
 }
 
 /* LOGO */
-
-.style-logo-logos {
-    color: #2e2f42;
-}
 
 .logo-color-list {
     color: #f4f4fd;
@@ -257,4 +249,12 @@
 .style-logos-item {
     color: #f4f4fd;
     background-color: #2e2f42;
+}
+
+.style-logos-logo {
+    background-color: #2E2F42;
+}
+
+.style-logo-logos {
+    color: #f4f4fd;
 }
