@@ -182,8 +182,6 @@
 /* HERO */
 
 .hero-list {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -194,8 +192,6 @@
 }
 
 .hero-item {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -205,11 +201,13 @@
     color: #434455;
 }
 
+.hero-item-list {
+    background-color: #FFFFFF;
+}
+
 /* GOAL LIST */
 
 .goal-list {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -220,11 +218,14 @@
     text-align: center;
 }
 
+.goal-item-list {
+    background-color: #FFFFFF;
+}
+
+
 /* TEAM */
 
 .team {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -236,8 +237,6 @@
 }
 
 .team-list {
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -248,34 +247,34 @@
     color: #2e2f42;
 }
 
-.team-item{
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-text-align: center;
-letter-spacing: 0.02em;
-color: #2e2f42;
-flex: none;
-order: 0;
-flex-grow: 0;
-background-color: #FFFFFF;
+.team-item {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
 }
 
-.team-post{
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-text-align: center;
-letter-spacing: 0.02em;
-color: #434455;
-flex: none;
-order: 1;
-flex-grow: 0;
+.team-post {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #434455;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
 }
+
+.team-item-list {
+    background-color: #FFFFFF;
+}
+
 
 
 /* FUTER PORFOLIO */
