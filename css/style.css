@@ -189,7 +189,6 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
-    background-color: #F4F4FD;
 }
 
 .hero-item {
@@ -200,6 +199,7 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #434455;
+    background-color: #F4F4FD;
 }
 
 .hero-item-list {
