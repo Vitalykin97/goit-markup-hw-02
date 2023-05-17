@@ -101,12 +101,12 @@
 }
 
 
-.contacts-style-list-item:hover {
+.contacts-style-list-item link:hover {
     color: #404bbf;
 }
 
 
-.contacts-style-list-item:focus {
+.contacts-style-list-item link:focus {
     color: #404bbf;
 }
 
