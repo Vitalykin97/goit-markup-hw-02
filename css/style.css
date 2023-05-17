@@ -115,6 +115,10 @@
     color: var(--color-primary);
 }
 
+.contacts-style-list-nav:hover,
+.contacts-style-list-nav:focus {
+    color: var(--color-primary);
+}
 
 :root {
     --color-primary: #404bbf;
