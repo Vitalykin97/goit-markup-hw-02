@@ -179,6 +179,20 @@
     color: #2e2f42;
 }
 
+/* HERO */
+
+.hero-list {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+
 /* FUTER PORFOLIO */
 
 .style-logos-item {
