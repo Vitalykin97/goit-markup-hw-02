@@ -172,7 +172,7 @@
 
 .btn-style:focus,
 .btn-style:hover {
-    color: var(--color-primary);
+    background-color: #404BBF;
 }
 
 .section-style {
