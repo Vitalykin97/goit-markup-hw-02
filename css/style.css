@@ -110,8 +110,8 @@
 }
 
 
-.contacts-style-list-item:hover,
-.contacts-style-list-item:focus {
+.contacts-style-list:hover,
+.contacts-style-list:focus {
     color: var(--color-primary);
 }
 
