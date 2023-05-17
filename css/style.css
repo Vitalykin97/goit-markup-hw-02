@@ -153,22 +153,6 @@
 
 /* BUTTON */
 
-.text-btn {
-    font-family: "Roboto", sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.04em;
-    color: #FFFFFF;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
-}
-
-
 .btn-style {
     font-family: "Roboto", sans-serif;
     font-style: normal;
