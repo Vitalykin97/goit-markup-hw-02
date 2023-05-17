@@ -150,7 +150,7 @@
     background: #2E2F42;
 }
 
-
+:root
 /* BUTTON */
 
 .btn-style {
@@ -167,6 +167,12 @@
     order: 0;
     flex-grow: 0;
     background-color: #4D5AE5;
+    cursor: pointer
+}
+
+.btn-style:focus,
+.btn-style:hover {
+    color: var(--color-primary);
 }
 
 .section-style {
