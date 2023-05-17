@@ -99,9 +99,19 @@
     color: #434455;
 }
 
+.contacts-style-list-item {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 
-.contacts-style-list-nav:hover,
-.contacts-style-list-nav:focus {
+
+.contacts-style-list-item:hover,
+.contacts-style-list-item:focus {
     color: var(--color-primary);
 }
 
