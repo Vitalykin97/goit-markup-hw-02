@@ -18,11 +18,7 @@
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4D5AE5;
-    flex: none;
-    order: 1;
-    flex-grow: 0;
-}
+    color: #4D5AE5;}
 
 
 .style-logos-logo {
@@ -62,9 +58,6 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
-    flex: none;
-    order: 1;
-    flex-grow: 0;
 }
 
 .main-logo {
@@ -78,9 +71,6 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
-    flex: none;
-    order: 1;
-    flex-grow: 0;
 }
 
 .address-list {
@@ -142,11 +132,6 @@
 /* TEXT TOP */
 
 .background {
-    position: absolute;
-    width: 1440px;
-    height: 600px;
-    left: 0px;
-    top: 72px;
     background: #2E2F42;
 }
 
@@ -159,13 +144,9 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    display: flex;
     align-items: center;
     letter-spacing: 0.04em;
     color: #FFFFFF;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
     background-color: #4D5AE5;
     cursor: pointer
 }
@@ -199,7 +180,6 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #434455;
-    background-color: #F4F4FD;
 }
 
 .hero-item-list {
@@ -216,7 +196,6 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
-    text-align: center;
 }
 
 .goal-item-list {
@@ -253,9 +232,6 @@
     text-align: center;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
 }
 
 .team-post {
@@ -266,8 +242,6 @@
     letter-spacing: 0.02em;
     color: #434455;
     flex: none;
-    order: 1;
-    flex-grow: 0;
 }
 
 .team-item-list {
