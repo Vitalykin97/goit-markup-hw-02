@@ -126,11 +126,11 @@
 .text-style {
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 700;
-    font-size: 56px;
-    line-height: 60px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.07;
     text-align: center;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.04em;
     color: #FFFFFF;
 }
 
@@ -153,6 +153,22 @@
 
 /* BUTTON */
 
+.text-btn {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+
 .btn-style {
     display: flex;
     flex-direction: row;
@@ -168,21 +184,6 @@
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     line-height: 1.07;
-}
-
-.text-btn {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.04em;
-    color: #FFFFFF;
-    flex: none;
-    order: 0;
-    flex-grow: 0;
 }
 
 .section-style {
