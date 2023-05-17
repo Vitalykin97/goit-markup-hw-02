@@ -111,10 +111,7 @@
 
 
 .contact-link:hover,
-.contact-link:focus {
-    color: var(--color-primary);
-}
-
+.contact-link:focus,
 .nav-link:hover,
 .nav-link:focus {
     color: var(--color-primary);
