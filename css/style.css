@@ -36,10 +36,6 @@
 
 /* LOGO */
 
-.logo-color-list {
-    color: #f4f4fd;
-}
-
 .logo-linked link {
     font-family: 'Raleway';
     font-style: normal;
@@ -253,6 +249,7 @@
 
 .style-logos-logo {
     background-color: #2E2F42;
+    color: #2e2f42;
 }
 
 .style-logo-logos {
