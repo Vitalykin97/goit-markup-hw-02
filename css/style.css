@@ -89,17 +89,6 @@
 }
 
 /* CONTACTS */
-.contacts-style-list-item {
-    font-family: 'Raleway';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    color: #404bbf;
-}
-
 .contacts-style-list-item link {
     font-family: 'Raleway';
     font-style: normal;
@@ -112,16 +101,7 @@
 }
 
 
-.contacts-style-list-item:hover {
-    color: #404bbf;
-}
-
-
-.contacts-style-list-item link:focus {
-    color: #404bbf;
-}
-
-.contacts-style-list-item:hover {
+.contacts-style-list-item link:hover {
     color: #404bbf;
 }
 
