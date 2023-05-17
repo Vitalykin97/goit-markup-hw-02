@@ -18,7 +18,8 @@
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4D5AE5;}
+    color: #4D5AE5;
+}
 
 
 .style-logos-logo {
@@ -170,6 +171,7 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
+    background-color: #F4F4FD;
 }
 
 .hero-item {
