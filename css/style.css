@@ -236,9 +236,12 @@
     color: #F4F4FD;
 }
 
-.style-logo-logos {
+/* HEADER LOGO */
+.style-logos-logo {
     color: #2E2F42;
 }
+
+/* FOTER LOGO */
 
 .style-logos-down {
     color: #F4F4FD;
@@ -247,6 +250,8 @@
 .logo-color-list {
     background-color: #2e2f42;
 }
+
+/* HEADER LOGO  */
 
 .logo-link {
     font-family: 'Raleway', sans-serif;
