@@ -29,7 +29,6 @@
     font-size: 18px;
     line-height: 21px;
     display: flex;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
@@ -42,7 +41,6 @@
     font-size: 18px;
     line-height: 21px;
     display: flex;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
@@ -119,7 +117,6 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    align-items: center;
     letter-spacing: 0.04em;
     color: #FFFFFF;
     background-color: #4D5AE5;
@@ -217,7 +214,6 @@
     text-align: center;
     letter-spacing: 0.02em;
     color: #434455;
-    flex: none;
 }
 
 .team-item-list {
@@ -260,8 +256,6 @@
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-    display: flex;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
