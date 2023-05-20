@@ -288,6 +288,7 @@
 .button-all:focus {
     background: var(--background-button);
     color: var(--color-button);
+    color: #FFFFFF;
 }
 
 :root {
