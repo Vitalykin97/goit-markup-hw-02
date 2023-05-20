@@ -279,9 +279,9 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #4d5ae5;
-    background-color: #F4F4FD;
     cursor: pointer;
+    color: var(--color-button);
+    background-color: var(--background-button);
 }
 
 .button-all:hover,
@@ -292,5 +292,21 @@
 
 :root {
     --color-button: #FFFFFF;
+    --background-button: #404BBF;
+}
+
+.button-web-site {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    background-color: var(--background-button);
+
+}
+
+.button-web-site:hover,
+.button-web-site:focus {
     --background-button: #404BBF;
 }
