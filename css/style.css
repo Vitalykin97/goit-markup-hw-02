@@ -286,8 +286,8 @@
 
 .button-all:hover,
 .button-all:focus {
-    background: #404BBF;
-    color: #FFFFFF;
+    background: var(--background-button);
+    color: var(--color-button);
 }
 
 .button-all:hover,
