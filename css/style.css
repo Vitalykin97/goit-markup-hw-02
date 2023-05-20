@@ -295,4 +295,6 @@
     --background-button: #404BBF;
 }
 
-.list {text-decoration: none;}
+.link {
+    text-decoration: none;
+}
