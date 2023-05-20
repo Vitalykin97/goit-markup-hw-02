@@ -291,8 +291,8 @@
 }
 
 :root {
-    --color-button: #FFFFFF;
-    --background-button: #404BBF;
+    --color-button: #4d5ae5;
+    --background-button: #F4F4FD;
 }
 
 /* WebSite */
@@ -304,7 +304,22 @@
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    color: #4d5ae5;
+    background-color: #F4F4FD;
+}
+
+.button-all:hover,
+.button-all:focus {
+    background: var(--background-button);
+    color: var(--color-button);
+}
+
+.button-all {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
     background-color: #F4F4FD;
 }
 
