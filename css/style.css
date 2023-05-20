@@ -304,8 +304,8 @@
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    color: #FFFFFF;
-    background-color: #404BBF;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
 }
 
 .button-all:hover,
