@@ -280,8 +280,8 @@
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    color: var(--color-button);
-    background-color: var(--background-button);
+    color: #FFFFFF;
+    background-color: #404BBF;
 }
 
 .button-all:hover,
@@ -302,7 +302,7 @@
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    background-color: var(--background-button);
+    background-color:  #404BBF;
 
 }
 
