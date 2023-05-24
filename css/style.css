@@ -1,5 +1,7 @@
 :root {
-    background-color: #ffffff;
+    --background-color: #ffffff;
+    --color-button: #FFFFFF;
+    --background-button: #404BBF;
 }
 
 .body-fonts {
@@ -294,11 +296,6 @@ letter-spacing: 0.02em;
 .button-all:focus {
     background: var(--background-button);
     color: var(--color-button);
-}
-
-:root {
-    --color-button: #FFFFFF;
-    --background-button: #404BBF;
 }
 
 .link {
