@@ -146,7 +146,6 @@
     line-height: 1.5;
     text-align: center;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
     color: #434455;
     background-color: #F4F4FD;
 }
@@ -235,14 +234,14 @@
     color: #F4F4FD;
 }
 
-.portfolio-item{
+.portfolio-item {
     font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-color: #F4F4FD;
-letter-spacing: 0.02em;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
 
 /* HEADER LOGO */
@@ -260,13 +259,13 @@ letter-spacing: 0.02em;
     background-color: #2e2f42;
 }
 
-.footer-item{
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #F4F4FD;
+.footer-item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
 }
 
 /* HEADER LOGO  */
